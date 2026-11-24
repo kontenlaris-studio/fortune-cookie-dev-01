@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="assets/logo.png?v=1" width="280" alt="fortune-cookie-dev-01 logo">
+  <p><em>Fortune cookie wisdom for developers.</em></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931" alt="License: MIT">
+  <img src="https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931" alt="By Kontenlaris Studio">
+</p>
+</div>
+
 # fortune-cookie-dev-01
 
 [![make.fun · u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44](https://make.fun/badge/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44.svg)](https://make.fun/bounty/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44)
